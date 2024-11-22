@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PB 503 - Abstraction, Polymorphism Homework/1.0.0": {
+        "runtime": {
+          "PB 503 - Abstraction, Polymorphism Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PB 503 - Abstraction, Polymorphism Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

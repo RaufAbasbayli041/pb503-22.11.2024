@@ -1,0 +1,29 @@
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.exe
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\refint\PB 503 - Abstraction, Polymorphism Homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\20.11.2024\PB 503 - Abstraction, Polymorphism Homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\ref\PB 503 - Abstraction, Polymorphism Homework.dll
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.exe
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.deps.json
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.runtimeconfig.json
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.dll
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\bin\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.pdb
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.AssemblyInfoInputs.cache
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.AssemblyInfo.cs
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.csproj.CoreCompileInputs.cache
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.sourcelink.json
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.dll
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\refint\PB 503 - Abstraction, Polymorphism Homework.dll
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.pdb
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\PB 503 - Abstraction, Polymorphism Homework.genruntimeconfig.cache
+C:\Users\elnur.a\Source\Repos\20.11.2024-homework\PB 503 - Abstraction, Polymorphism Homework\obj\Debug\net8.0\ref\PB 503 - Abstraction, Polymorphism Homework.dll
